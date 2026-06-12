@@ -1,7 +1,9 @@
 Option 1 short:
 Encode the text below into invisible Unicode Tag characters, wrap it with BEGIN/END markers:
+
 `I LIKE BIG DUCKS!!!`
 
+or 
 
 Option 2:
 ```
