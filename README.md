@@ -106,7 +106,7 @@ The result is often more effective (and way more fun) than dry adversarial promp
 
 ## 🔗 Links & Credits
 
-- **Speaker / Maintainer**: [Michał Bazyli (@punishell)](https://pl.linkedin.com/in/punishell)
+- **Speaker / Maintainer**: [(@punishell)](https://x.com/0xPunishell)
 - **Affiliation**: Founding Cybersecurity Researcher, [Cracken](https://cracken.ai/)
 - **Event**: [RBLN East 2026](https://www.rbln.com/events/2026/east)
 - **Talk Abstract & Schedule**: Available on the official RBLN site
